@@ -1,0 +1,26 @@
+{
+  "name": "open-sans-light-typefacejs",
+  "version": "1.0.0",
+  "authors": [
+    "Stephan Miller <stephanmil@gmail.com>"
+  ],
+  "description": "Open Sans Light Typeface.js font for THREE.js applications",
+  "main": "./open_sans_typeface.js",
+  "keywords": [
+    "typefacejs",
+    "open",
+    "sans",
+    "open",
+    "sans",
+    "light"
+  ],
+  "license": "MIT",
+  "homepage": "http://stephanmiller.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
